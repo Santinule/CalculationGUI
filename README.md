@@ -1,3 +1,3 @@
 # JavaSwingApplication
 
-Allows to create a quick GUI that can perform a desired Calculation.
+This code allows you tp create a quick GUI that can perform a desired Calculation.
